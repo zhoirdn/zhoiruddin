@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhoiruddin
+- 👋 Hi, I’m Zhoi
 - 👀 I’m interested in Web Development and Guitar
 
 <!---
