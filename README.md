@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Zhoi
-- 👀 I’m interested in Web Development and Guitar
+👋 Hi, I’m Zhoi!
+👀 I’m interested in Web Development, Blockchain, and Guitar
 
 <!---
 zhoiruddin/zhoiruddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
