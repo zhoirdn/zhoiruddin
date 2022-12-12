@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zhoi!
+- 👋 Hi, my name is Zhoi!
 - 👀 I’m interested in Web Development, Blockchain, and Guitar
 
 <!---
